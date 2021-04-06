@@ -31,3 +31,9 @@
 
 ###Goals
 - Software Developer in 'Java'
+
+###Hobbies
+- Reading Newspaper
+- Listening songs
+
+
