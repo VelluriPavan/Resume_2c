@@ -24,15 +24,17 @@
 - Board of SSC
 - Andhra Pradesh,India
 
-###skills
+####skills
 - C language
 - Java 
 - Python 
 
-###Goals
+####Goals
 - Software Developer in 'Java'
 
-###Hobbies
+####Hobbies
+-listening songs
+-reading newspaper
 - Reading Newspaper
 - Listening songs
 
