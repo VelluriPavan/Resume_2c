@@ -33,8 +33,8 @@
 - Software Developer in 'Java'
 
 #### Hobbies
--listening songs
--reading newspaper
+ -listening songs
+ -reading newspaper
 
 
 
